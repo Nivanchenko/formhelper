@@ -56,4 +56,4 @@
 
 ```
 
-Вообще я люблю хорошую документацию, по этому примеров будет больше.
+![](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)[Статья](https://infostart.ru/public/1979960/) 
