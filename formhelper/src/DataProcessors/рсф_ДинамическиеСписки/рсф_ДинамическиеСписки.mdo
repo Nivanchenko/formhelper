@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="05f17437-c3df-4188-82ae-247e4d4b8772">
+  <producedTypes>
+    <objectType typeId="08840aa8-ce6a-49d1-8d48-f6203e03f5e8" valueTypeId="baa69464-e223-4e94-a5fe-98f5b7f02ae5"/>
+    <managerType typeId="5bce5fca-af9a-4b13-8bca-2f324e7a5b8f" valueTypeId="594398ec-1912-4e8e-9ccb-8eb41124b238"/>
+  </producedTypes>
+  <name>рсф_ДинамическиеСписки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Динамические списки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d5fc6236-448e-4133-91e1-79b91a96d05d">
+  <name>РаботаСФормами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с формами</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.рсф_ПостроительФорм</content>
+  <content>CommonModule.РаботаСФормамиСервер</content>
+  <content>DataProcessor.рсф_Таблицы</content>
+  <content>DataProcessor.рсф_ДинамическиеСписки</content>
+</mdclass:Subsystem>

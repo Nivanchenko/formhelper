@@ -1,0 +1,6 @@
+env.json
+.vscode/
+build/
+src/ConfigDumpInfo.xml
+*.cfe
+*.DS_Store*

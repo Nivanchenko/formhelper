@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ac707157-adb9-45b9-ad5c-5c1e829d006a">
+  <name>formhelper_user</name>
+  <synonym>
+    <key>ru</key>
+    <value>Formhelper user</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <commandInterface>Extended</commandInterface>
+    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <defaultStyle>Extended</defaultStyle>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="803ba072-fac7-4f0d-89c3-292fafc05d5d"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="58ba4e00-8795-44ac-be22-9e5ad6d6028c"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="80e07f1f-e830-43a6-b1fd-799626b494a3"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="033a8833-8be5-486c-9b7e-058705cfb0b3"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="b2548068-92fd-46b9-8522-ba9118e28701"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="8a39e09a-015c-48fb-b799-bcb067650e5f"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="6418b8c7-fc6e-4876-86b3-d34ae49418e3"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>Расш1_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.Расш1_ОсновнаяРоль</defaultRoles>
+  <languages uuid="5180fed5-a815-42f4-b834-f3422c001c1f">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.Расш1_ОсновнаяРоль</roles>
+  <catalogs>Catalog.Справочник</catalogs>
+</mdclass:Configuration>
