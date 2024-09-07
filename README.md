@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/534443720.json)](https://openyellow.org/grid?data=top&repo=534443720)
+
 # formhelper
 
 Библиотека для программного управления элементами формы.
