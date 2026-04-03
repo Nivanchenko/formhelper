@@ -17,6 +17,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.рсф_ПостроительФорм</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСФормамиСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.рсф_ПостроительФормТесты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.рсф_Таблицы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.рсф_ДинамическиеСписки</xr:Item>
 			</Content>
