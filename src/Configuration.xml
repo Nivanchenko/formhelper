@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.рсф_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>0.1.0</Version>
+			<Version>0.2.0</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -67,9 +67,11 @@
 			<Subsystem>РаботаСФормами</Subsystem>
 			<Role>рсф_ОсновнаяРоль</Role>
 			<CommonModule>РаботаСФормамиСервер</CommonModule>
+			<CommonModule>рсф_ПостроительФормТесты</CommonModule>
 			<DataProcessor>рсф_ПостроительФорм</DataProcessor>
 			<DataProcessor>рсф_Таблицы</DataProcessor>
 			<DataProcessor>рсф_ДинамическиеСписки</DataProcessor>
+			<DataProcessor>рсф_ТестоваяОбработка</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
